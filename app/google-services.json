@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1010832734218",
+    "project_id": "will-vpn-app-43b2f",
+    "storage_bucket": "will-vpn-app-43b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010832734218:android:0f2984407e24a89d5787f3",
+        "android_client_info": {
+          "package_name": "com.willdev.openvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010832734218-hhcacfelje1kplhrov53ct1rsk5cbs1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willdev.openvpn",
+            "certificate_hash": "b38fe73002c5f356c8ab0efbeaccede78d31b9fb"
+          }
+        },
+        {
+          "client_id": "1010832734218-li3sjk6dtm6cfq944am3udrp3mp5sjdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7P7xUVGB-fVSPGAuczwqNppEQl-b2kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010832734218-li3sjk6dtm6cfq944am3udrp3mp5sjdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

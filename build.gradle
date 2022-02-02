@@ -1,0 +1,32 @@
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.1'
+        classpath 'com.google.gms:google-services:4.3.4'
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:[0.12.10, 0.99.99]'
+        classpath 'com.novoda:bintray-release:0.8.0'//IRBottomNavigationLib
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'//imagepicker
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        jcenter { url "http://jcenter.bintray.com/" }
+        mavenCentral()
+        maven { url "https://maven.google.com" }
+        maven { url "https://jitpack.io" }
+        maven { url 'https://dl.bintray.com/drummer-aidan/maven' }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

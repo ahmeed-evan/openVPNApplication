@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation" >
+    <string name="app_name">Will VPN</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="vpn_process">31674741</string>
+    <string name="connection_close_confirm">Would you like to cancel the current VPN Connection?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="isRTL">false</string>
+
+
+    <string name="vip_price_month">$2.59</string>
+    <string name="vip_price_3month">$3.99</string>
+    <string name="vip_price_6month">$6.49</string>
+    <string name="vip_price_12month">$8.49</string>
+
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+
+
+    <string name="facebook_app_id">xxxxxxxxxxxxx</string>
+    <string name="fb_login_protocol_scheme">xxxxxxxxxxxxxxx</string>
+
+    <string name="play_more_app">https://play.google.com/store/apps/developer?id=Our+Vision</string>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="upload_quotes">Upload Quotes</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_gif">Upload Gif</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="my_video">My Video</string>
+    <string name="reward">Reward</string>
+    <string name="reference_code">Reference Code</string>
+    <string name="earn_point">Earn point</string>
+    <string name="rate_app">Rate App</string>
+    <string name="banner_premium_packages">Premium Membership</string>
+    <string name="banner_description">By the Premium Plan and Get Ride of \n Fastest Servers in the world.</string>
+    <string name="more_app">More App</string>
+    <string name="share_app">Share App</string>
+    <string name="about_us">About Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="setting">Settings</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="faq">Faq</string>
+    <string name="login">Login or Logout </string>
+
+    <string name="app_name_about_us">abcd</string>
+    <string name="about_us_version">Version</string>
+    <string name="about_us_version_text">1.0</string>
+    <string name="about_us_Company">Company</string>
+    <string name="about_us_company_name">abcd</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">abcd@abcd.com</string>
+    <string name="about_us_website">Website</string>
+    <string name="about_us_website_text">www.abcd.com</string>
+    <string name="about_us_contact">Contact</string>
+    <string name="about_us_contact_text">1234567890</string>
+    <string name="about_us_about">About</string>
+
+    <string name="ok">OK</string>
+    <string name="save_profile">SAVE</string>
+    <string name="loading">Loading....</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="failed_try_again">Failed try again</string>
+    <string name="you_have_not_login">You have not login</string>
+    <string name="logout_message">Are you sure you want to logout</string>
+    <string name="wrong">Something went to wrong please try again later</string>
+    <string name="internet_connection">Internet connection not available</string>
+    <string name="Please_click_BACK_again_to_exit">Please click BACK again to exit</string>
+    <string name="Let_me_recommend_you_this_application">Let me recommend you this application</string>
+    <string name="cannot_use_save_permission">Can not use share, upload and download future allow storage permission</string>
+
+    <string name="lorem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula sem a malesuada rhoncus.
+        Pellentesque ut dolor a dui porttitor porta lacinia non libero. Nunc volutpat arcu quis quam convallis molestie.
+    </string>
+
+    <string name="skip">Skip</string>
+    <string name="got_it">GOT IT</string>
+    <string name="welcome_title_one">Will VPN App</string>
+    <string name="welcome_title_two">Reward Points</string>
+    <string name="welcome_title_three">Unlimited Bandwidth Servers.</string>
+    <string name="welcome_description_one"><![CDATA[Refer and Earn the Points by sharing this application with your friends. ]]></string>
+    <string name="welcome_description_two"><![CDATA[Play Lucky Wheel and You have Chance to win the Points !! Hurry Up !!]]></string>
+    <string name="welcome_description_three">You can Unlock the Restigrated Website or Apps and Get Ride of Fastest Servers</string>
+
+    <string name="logout">Logout</string>
+    <string name="email">Enter Your Email</string>
+    <string name="password">Enter Your Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="button_text_login">LOGIN</string>
+    <string name="button_text_skip">Skip</string>
+    <string name="textView_forget_password">Forget your password ?</string>
+    <string name="google_login">Login With Gmail</string>
+    <string name="facebook_login">Login With facebook</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="button_text_register">Register</string>
+    <string name="name">Name</string>
+    <string name="phoneNo">Phone No</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="already_have_an_account_yet">Already have an account yet ?</string>
+    <string name="register_login_text">Login</string>
+    <string name="submit">Submit</string>
+
+    <string name="please_enter_name">Please enter name</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="pass_confPass_match">Password and confirm password does not match</string>
+    <string name="please_enter_phone">Please enter phone number</string>
+    <string name="please_enter_full_name">Please enter full name</string>
+    <string name="please_enter_message">Please enter message</string>
+
+    <string name="forget_password">Forget password</string>
+    <string name="forget_password_text">Enter your email address below and we\'ll send you email with instructions on how to change your password</string>
+
+    <string name="title_verification">Enter Verification Code</string>
+    <string name="enter_code">Enter code</string>
+    <string name="opt_contain">We Have Send OTP On Your Email</string>
+    <string name="please_enter_verification_code">Please enter verification code</string>
+    <string name="verification_message">Verification code does not match</string>
+    <string name="verify">verify</string>
+    <string name="re_register">Again Registration</string>
+    <string name="resend_your_otp">Resend Your Otp</string>
+    <string name="click_hear">Click Here</string>
+    <string name="server_time_out">Server time out please try again use latest otp</string>
+
+    <string name="value">0</string>
+    <string name="youtube">Youtube</string>
+    <string name="instagram">Instagram</string>
+    <string name="follow">Edit</string>
+    <string name="unfollow">Edit</string>
+    <string name="following">Edit</string>
+    <string name="followers">Edit</string>
+    <string name="on_review">On review</string>
+    <string name="approved">Approved</string>
+    <string name="not_following">You have not any user following</string>
+    <string name="not_follower">You have not any user follow</string>
+    <string name="you_have_not_onFollow">You cannot follow yourself</string>
+    <string name="user_not_instagram_link">User has not added instagram profile link</string>
+    <string name="user_not_youtube_link">User has not added youtube profile link</string>
+
+    <string name="delete">Delete</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="quote_status">Quotes status</string>
+    <string name="image_status">Image status</string>
+    <string name="gif_status">Gif status</string>
+    <string name="video_status">Video status</string>
+    <string name="pending_point">Pending Point</string>
+    <string name="delete_my_account">Delete My Account</string>
+    <string name="delete_des_dialog">If you want delete your account then the company will require your e-mail address for inquiry.</string>
+
+    <string name="language_title">Select Your Language</string>
+    <string name="language_des">In this app, You can select your the dearest language you see status. If you have not selected your dear language, then all languages are shown.</string>
+
+    <string name="copy_text">Copy Text</string>
+    <string name="tab_to_copy">Tap To Copy</string>
+    <string name="your_reference_code">Your Reference Code</string>
+    <string name="reference_code_detail">Share you reference code to others and earn more points.</string>
+
+    <string name="download">Download</string>
+    <string name="please_install_whatsapp">Please Install WhatsApp</string>
+    <string name="please_install_instagram">Please Install Instagram</string>
+    <string name="please_install_facebook">Please Install Facebook</string>
+    <string name="please_install_fb_messenger">Please Install Facebook Messenger</string>
+    <string name="please_install_twitter">Please Install Twitter</string>
+    <string name="you_have_not_like_video">User cannot like their own videos</string>
+    <string name="you_have_already_download_video">You have already download video</string>
+    <string name="related_status">Related Status</string>
+    <string name="allcomment">All Comment</string>
+    <string name="please_enter_comment">Please enter comment</string>
+    <string name="bottom_sheet_option_title">QUICK SHARE AND REPORT</string>
+    <string name="report">Report</string>
+    <string name="share_is_caring">Sharing is caring</string>
+    <string name="copy">Copy</string>
+    <string name="copy_sub">Copy quote</string>
+    <string name="copy_qoute">Copy quote</string>
+    <string name="report_sub">Will check what\'s wrong</string>
+    <string name="copyright">Copyright</string>
+    <string name="sexual">Sexual</string>
+    <string name="other">Other</string>
+    <string name="tell_us">Tell us</string>
+    <string name="send">Send</string>
+    <string name="please_select_option">Please select option</string>
+    <string name="comment">Comment</string>
+    <string name="no_comment_found">No Comment Found</string>
+    <string name="leave_your_comment">Leave your comment</string>
+    <string name="delete_comment">Are you sure want to delete this comment</string>
+
+    <string name="enter_reference_code">Enter Reference Code</string>
+    <string name="please_enter_reference_code">Please enter reference code</string>
+    <string name="enter_ref_code_des">Enter your friends reference code to earn more points.</string>
+    <string name="text_continue">Continue</string>
+
+    <string name="choose_upload_option">Choose your upload option</string>
+    <string name="upload_status_des">Pick up the most desire Videos, Images, Quotes and GIFs.</string>
+    <string name="video_title">Video Title</string>
+    <string name="add_thumbnail_file">+ Add Thumbnail File</string>
+    <string name="video_category_name">Video category name</string>
+    <string name="add_video_file">+ Add Video File</string>
+    <string name="no_file_selected">Recommended resolution 800x500,650x450</string>
+    <string name="video_type">Video type</string>
+    <string name="landscape">Landscape</string>
+    <string name="portrait">Portrait</string>
+    <string name="upload">Upload</string>
+    <string name="selected_category">Select Category</string>
+    <string name="tag">Tag</string>
+    <string name="hint_tag">e.g. abc, cdf,</string>
+    <string name="language">Language</string>
+    <string name="please_select_language">Please select language</string>
+    <string name="please_enter_title">Please enter title</string>
+    <string name="please_select_image">Please select image</string>
+    <string name="please_select_image_type">Please select image type</string>
+    <string name="please_select_category">Please select category</string>
+    <string name="please_select_video">Please select video</string>
+    <string name="selected_video_type">Select video type</string>
+    <string name="file_type_video">Please select mp4 video file</string>
+    <string name="please_select_videoType">Please select video type</string>
+    <string name="upload_folder_error">Select from file manager then it will work</string>
+    <string name="image_title">Image Title</string>
+    <string name="image_type">Image Type</string>
+    <string name="selected_image_type">Select image type</string>
+    <string name="add_image_file">Add Image File</string>
+    <string name="image_category_name">Image category name</string>
+    <string name="gif_title">Gif Tittle</string>
+    <string name="gif_type">Gif type</string>
+    <string name="add_gif_file">Add gif file</string>
+    <string name="gif_category_name">Gif category name</string>
+    <string name="selected_gif_type">Select gif type</string>
+    <string name="file_type_gif">Please select gif file</string>
+    <string name="please_select_gif">Please select gif type</string>
+    <string name="share_to">Share to</string>
+    <string name="text_style">Text Style</string>
+    <string name="quotes_category_name">Quotes category name</string>
+    <string name="enter_quotes">Enter quotes</string>
+    <string name="please_enter_quotes">Please enter quotes</string>
+
+    <string name="you_have">You Have</string>
+    <string name="reward_point">Reward Point</string>
+    <string name="reward_point_claim">Reward Point Claim</string>
+    <string name="payment_detail">Payment Detail</string>
+    <string name="please_enter_detail">Please enter detail</string>
+
+    <string name="user_point">User Point</string>
+    <string name="approve">Approve</string>
+    <string name="pending">Pending</string>
+    <string name="reject">Reject</string>
+    <string name="point">Point</string>
+    <string name="cancel_dialog">Cancel</string>
+    <string name="bank_detail">Please select your transaction type and fill the details and admin will soon contact you.</string>
+    <string name="view_all">View All</string>
+    <string name="current_point">Current Point</string>
+    <string name="withdrawal_history">Withdrawal History</string>
+    <string name="equal">=</string>
+    <string name="minimum">Minimum</string>
+    <string name="point_require">Reward point is required to claim</string>
+    <string name="history">History</string>
+
+    <string name="ready_to_upload">Ready to upload....</string>
+    <string name="download_later">First off download complete then after new download</string>
+
+    <string name="select_payment_type">Select Payment Type</string>
+    <string name="please_select_payment">Please select payment</string>
+
+    <string name="amount">Amount</string>
+    <string name="request_date">Request date</string>
+    <string name="approve_date">Approve date</string>
+    <string name="reject_date">Reject date</string>
+    <string name="payment_mode">Payment mode</string>
+    <string name="bank_detail_td">Bank detail</string>
+
+    <string name="play">Play</string>
+    <string name="spinner">Lucky Wheel</string>
+    <string name="daily_total_spins">Daily total spins</string>
+    <string name="remaining_spins_today">Remaining spins today</string>
+
+    <string name="detail_rm">Detail</string>
+    <string name="point_status">Point status</string>
+    <string name="payment_pending">Check detail after payment approved</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="your_message">Your Message</string>
+    <string name="request_verification">Request Verification</string>
+    <string name="attach_document">Please attach a photo of your ID</string>
+    <string name="new_request">An account name posting a new request will be eradicating the older one.</string>
+    <string name="reject_request">Your request for verifying account is rejected. Please review your documents and details and submit documents again for approval.</string>
+    <string name="document_first_note">We need to authenticate your Status Reward App account to verify your public image. Submitting a request does not allow your account to be analyzed. Authentication is mandatory for analysing.</string>
+    <string name="document_note">We demand for photo ID basically name and date of birth i.e. government issued (e.g. passport, national identification card or driver’s license) or official business documents for analysing your request.</string>
+    <string name="date">Date</string>
+    <string name="active">Active</string>
+    <string name="suspend">Suspend</string>
+    <string name="account_status">Account Status</string>
+    <string name="msg_suspend">Your account is suspended</string>
+    <string name="msg_approved">Your account is approved</string>
+    <string name="subject">Subject</string>
+    <string name="apply_for">Apply for</string>
+    <string name="verification">verification</string>
+    <string name="message">Message</string>
+    <string name="status">Status</string>
+    <string name="resubmit">Resubmit</string>
+    <string name="admin_message">Admin Message</string>
+    <string name="verification_status">Verification status</string>
+    <string name="account_approve">Your account has been approved</string>
+    <string name="account_disapprove">Your account has been rejected</string>
+    <string name="account_pending">Your account verification is pending</string>
+
+    <string name="view_ad_title">Watch reward video ad ?</string>
+    <string name="view_ad_detail">If you want to watch reward video ads then press Yes otherwise No.</string>
+
+    <string name="custom_settings">Custom Settings</string>
+    <string name="enable_push_notification">Enable push notification</string>
+    <string name="select_contact_type">Select contact type</string>
+    <string name="contact_detail">Please enter you contact details and admin will soon contact you.</string>
+    <string name="choose_one">Choose one</string>
+
+    <string name="share">Share</string>
+    <string name="see_all">SEE All</string>
+    <string name="update">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="downloading">Downloading</string>
+    <string name="watermark">adding watermark</string>
+    <string name="delete_msg">Are you sure you want to delete</string>
+
+</resources>

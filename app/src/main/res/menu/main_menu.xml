@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_homes"
+            android:title="@string/home" />
+
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_user_icon"
+            android:title="@string/profile" />
+
+        <item
+            android:id="@+id/reward"
+            android:icon="@drawable/ic_rewards"
+            android:title="@string/reward" />
+
+        <item
+            android:id="@+id/reference_code"
+            android:icon="@drawable/ic_rewards"
+            android:title="@string/reference_code" />
+        <item
+            android:id="@+id/earn_point"
+            android:icon="@drawable/ic_wheel"
+            android:title="@string/spinner" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/setting" />
+
+        <item
+            android:id="@+id/login"
+            android:icon="@drawable/ic_log_in"
+            android:title="@string/login" />
+
+        <item
+            android:id="@+id/contact_us"
+            android:icon="@drawable/ic_support"
+            android:title="@string/contact_us" />
+        <item
+            android:id="@+id/faq"
+            android:icon="@drawable/ic_faq"
+            android:title="@string/faq" />
+        <item
+            android:id="@+id/earn_poin"
+            android:icon="@drawable/ic_reward"
+            android:title="@string/earn_point" />
+        <item
+            android:id="@+id/share_app"
+            android:icon="@drawable/ic_share_option"
+            android:title="@string/share_app" />
+        <item
+            android:id="@+id/rate_app"
+            android:icon="@drawable/ic_rate_us"
+            android:title="@string/rate_app" />
+        <item
+            android:id="@+id/more_app"
+            android:icon="@drawable/ic_more_app"
+            android:title="@string/more_app" />
+        <item
+            android:id="@+id/privacy"
+            android:icon="@drawable/ic_lprivacy"
+            android:title="@string/privacy_policy" />
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about_us" />
+
+        <item
+            android:enabled="false"
+            android:title="" />
+        <item
+            android:enabled="false"
+            android:title="" />
+    </group>
+
+</menu>

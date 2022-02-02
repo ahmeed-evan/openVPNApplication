@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fromanother.activity.Spinner">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toolbar"
+        android:textStyle="bold"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout_root_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_spinner"
+        android:layout_above="@+id/linearLayout_spinner"
+        android:layout_below="@+id/toolbar_spinner">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="40dp">
+
+                    <rubikstudio.library.LuckyWheelView
+                        android:id="@+id/luckyWheel_spinner"
+                        android:layout_width="270dp"
+                        android:layout_height="270dp"
+                        android:layout_centerInParent="true"
+                        app:lkwCenterImage="@drawable/wheel"
+                        app:lkwCursor="@drawable/ic_cursor"
+                        app:lkwTextColor="@color/white"
+                        app:lkwBackgroundColor="@color/textView_app_color" />
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/relativeLayout_spinner"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="40dp"
+                    android:orientation="vertical">
+
+                    <com.google.android.material.textview.MaterialTextView
+                        android:id="@+id/textView_msg_spinner"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="@string/app_name"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/black" />
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/button_spinner"
+                        android:layout_width="120dp"
+                        android:layout_height="55dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="2dp"
+                        app:cornerRadius="25dp"
+                        android:text="@string/play"
+                        android:textStyle="bold"
+                        app:backgroundTint="@color/yellow"
+                        android:textColor="@color/white" />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" />
+
+    <ProgressBar
+        android:id="@+id/progressbar_spinner"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:theme="@style/ProgressBar"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/textView_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/no_data_found"
+        android:textColor="@color/textView_noData" />
+
+</RelativeLayout>

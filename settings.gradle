@@ -1,0 +1,10 @@
+include ':IRBottomNavigationLibb'
+include ':SmoothCheckBox-masterr'
+include ':SmoothCheckBox-masterr'
+include ':imagepickerr'
+include ':Wheell'
+include ':app', ':vpnLib'
+project(':imagepickerr').projectDir = new File(rootDir, 'imagepicker/')
+project(':SmoothCheckBox-masterr').projectDir = new File(rootDir, 'SmoothCheckBox-master/')
+project(':IRBottomNavigationLibb').projectDir = new File(rootDir, 'IRBottomNavigationLib/')
+rootProject.name='Open VPN'

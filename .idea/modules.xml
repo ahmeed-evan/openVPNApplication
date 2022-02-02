@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Open_VPN.iml" filepath="$PROJECT_DIR$/.idea/modules/Open_VPN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IRBottomNavigationLib/Open_VPN.IRBottomNavigationLibb.iml" filepath="$PROJECT_DIR$/.idea/modules/IRBottomNavigationLib/Open_VPN.IRBottomNavigationLibb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/Open_VPN.SmoothCheckBox-masterr.iml" filepath="$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/Open_VPN.SmoothCheckBox-masterr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wheell/Open_VPN.Wheell.iml" filepath="$PROJECT_DIR$/.idea/modules/Wheell/Open_VPN.Wheell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Open_VPN.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Open_VPN.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagepicker/Open_VPN.imagepickerr.iml" filepath="$PROJECT_DIR$/.idea/modules/imagepicker/Open_VPN.imagepickerr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vpnLib/Open_VPN.vpnLib.iml" filepath="$PROJECT_DIR$/.idea/modules/vpnLib/Open_VPN.vpnLib.iml" />
+    </modules>
+  </component>
+</project>
